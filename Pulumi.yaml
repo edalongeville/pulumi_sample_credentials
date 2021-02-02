@@ -1,0 +1,3 @@
+name: sample_credentials
+runtime: python
+description: https://github.com/pulumi/pulumi-aws/issues/1340

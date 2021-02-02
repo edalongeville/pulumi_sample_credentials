@@ -1,0 +1,9 @@
+[tool.poetry]
+description = "https://github.com/pulumi/pulumi-aws/issues/1340"
+name = "sample_credentials"
+version = "0.1.0"
+authors = ["Eric Dalongeville"]
+
+[tool.poetry.dependencies]
+pulumi = "^2.12.0"
+pulumi-aws = "^3.8.0"

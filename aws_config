@@ -1,0 +1,8 @@
+[default]
+sso_start_url = https://<COMPANY>.awsapps.com/start
+sso_account_id = <MY_AWS_ACCOUNT_ID>
+sso_role_name = <MY_SSO_ROLE_NAME>
+sso_region = eu-west-1
+region = eu-west-1
+output = json
+credential_process = aws-sso-credential-process --profile default
